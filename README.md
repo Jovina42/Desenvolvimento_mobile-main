@@ -4,7 +4,7 @@ Projeto inicial de aplicativo Android desenvolvido em Java
 
 ## Objetivo
 
- práticar de desenvolvimento mobiile Android e estruturação de projetos
+ práticar  desenvolvimento mobiile Android e estruturação de projetos
 
  ## Tecnologias utilizadas
 
