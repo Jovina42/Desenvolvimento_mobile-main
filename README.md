@@ -1,7 +1,15 @@
 # Desenvolvimento Mobile
 
-Projeto inicial de aplicativo Android
+Projeto inicial de aplicativo Android desenvolvido em Java
 
 ## Objetivo
 
-Criar um aplicativo simples como prática de desenvolvimento mobiile
+ práticar de desenvolvimento mobiile Android e estruturação de projetos
+
+ ## Tecnologias utilizadas
+
+ -Java
+ -Android Studio
+ -XML (Layout)
+
+ ## Desenvolvido por Jovina
